@@ -3,9 +3,9 @@ A Commercial App to display products, and some other Features Such as creating a
 ordering an order, and tracking the status of the order. 
 
 Technologies: 
-  Navigation component,
   Kotlin language,
   MVVM Pattern,
+  Navigation component,
   Dependency injection (Hilt),
   Coroutines and flow,
   FirebaseAuth,
