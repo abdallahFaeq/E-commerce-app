@@ -1,4 +1,4 @@
-E-Commerce App
+E-Commerce App:
 A Commercial App to display products, and some other Features Such as creating a Profile, Adding the product to the shopping cart,
 ordering an order, and tracking the status of the order. 
 
